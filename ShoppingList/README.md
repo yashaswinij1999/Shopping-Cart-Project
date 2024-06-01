@@ -54,4 +54,4 @@ npm install
 npm run dev
 ```
 
-5.**Open your browser and start the server to view the app.**
+5. **Open your browser and start the server to view the app.**
