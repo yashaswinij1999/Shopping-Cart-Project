@@ -28,7 +28,7 @@ Make sure you have the following installed on your local machine:
 
 Follow these steps to set up and run the project locally.
 
-1. Clone the Repository (if you have Git installed) or download the repository as a ZIP file and extract it.
+1. **Clone the Repository** (if you have Git installed) or download the repository as a ZIP file and extract it.
 
 First, clone the repository to your local machine using the following command:
 
@@ -36,22 +36,22 @@ First, clone the repository to your local machine using the following command:
 git clone https://github.com/yashaswinij1999/Shopping-Cart-Project.git
 ```
 
-2. Navigate to the Project Directory
+2. **Navigate to the Project Directory**
 
 ```
 cd ShoppingList
 ```
 
-3. Install dependencies
+3. **Install dependencies**
 
 ```
 npm install
 ```
 
-4. Start the development server:
+4. **Start the development server:**
 
 ```
 npm run dev
 ```
 
-5.Open your browser and start the server to view the app.
+5.**Open your browser and start the server to view the app.**
