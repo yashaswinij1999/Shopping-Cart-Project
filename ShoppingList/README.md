@@ -28,7 +28,7 @@ Make sure you have the following installed on your local machine:
 
 Follow these steps to set up and run the project locally.
 
-1. Clone the Repository
+1. Clone the Repository (if you have Git installed) or download the repository as a ZIP file and extract it.
 
 First, clone the repository to your local machine using the following command:
 
