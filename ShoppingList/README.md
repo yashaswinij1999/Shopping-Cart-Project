@@ -23,8 +23,10 @@ Make sure you have the following installed on your local machine:
 
 - [Node.js](https://nodejs.org/en/download/) (v12 or higher)
 - [npm](https://www.npmjs.com/get-npm) (v6 or higher) or [yarn](https://classic.yarnpkg.com/en/docs/install) (v1.22 or higher)
-- **Getting Started**
-  Follow these steps to set up and run the project locally.
+
+**Getting Started**
+
+Follow these steps to set up and run the project locally.
 
 1. Clone the Repository
 
