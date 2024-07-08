@@ -8,8 +8,8 @@ This project is a simple shopping list application built with React,React-Router
   - [Index](#index)
   - [Pre-requisites](#pre-requisites)
   - [Getting Started](#getting-started)
-    - [Concepts Used](#concepts-used)
-    - [Features](#features)
+  - [Concepts Used](#concepts-used)
+  - [Features](#features)
 
 ## Pre-requisites
 
@@ -50,15 +50,16 @@ npm run dev
 
 5. **Open your browser and start the server to view the app.**
 
-### Concepts Used
+## Concepts Used
 
-- useState Hook
-- useReducer Hook
-- Context API
-- React Router
-- TailWind CSS
+- **useState:** For managing local component state.
+- **useEffect:** For fetching the products data.
+- **useReducer:** For complex state logic.
+- **useContext:** For state management.
+- **React Router:** For routing within the application.
+- **TailWind CSS:** For styling the components.
 
-### Features
+## Features
 
 - Add items to the shopping cart.
 - Increment and Decrement item quantities
