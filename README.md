@@ -33,7 +33,7 @@ git clone https://github.com/yashaswinij1999/shopping-cart-project.git
 2. **Navigate to the Project Directory**
 
 ```
-cd Shopping-Cart-Project
+cd shopping-cart-project
 ```
 
 3. **Install dependencies**
