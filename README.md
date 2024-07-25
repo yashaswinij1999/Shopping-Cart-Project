@@ -27,7 +27,7 @@ Follow these steps to set up and run the project locally.
 First, clone the repository to your local machine using the following command:
 
 ```
-git clone https://github.com/yashaswinij1999/Shopping-Cart-Project.git
+git clone https://github.com/yashaswinij1999/shopping-cart-project.git
 ```
 
 2. **Navigate to the Project Directory**
